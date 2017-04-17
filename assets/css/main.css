@@ -5,15 +5,17 @@
 .amarillo{
   background-color: yellow;
   height: 50px;
+  width: 160px;
   padding-top: 5px;
   padding-left: 5px;
   margin: 0;
+  display: inline-block;
 }
 .rosa{
   background-color: #d81553;
   height: 50px;
+  width: 160px;
   padding-top: 5px;
   padding-left: 5px;
-  margin: 0;
-  border: 1.5px solid black;
+  margin-top: 20px;
 }

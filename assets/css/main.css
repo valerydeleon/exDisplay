@@ -11,7 +11,7 @@
   padding-right: 5px;
   padding-bottom: 5px;
   margin: 10px;
-  display: inline;
+  display: inline-block;
 }
 .rosa{
   background-color: #d81553;
@@ -22,5 +22,5 @@
   padding-right: 5px;
   padding-bottom: 5px;
   margin-top: 20px;
-  display: inline;
+  display: inline-block;
 }
